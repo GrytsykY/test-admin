@@ -1,0 +1,19 @@
+.centers {
+  margin: 100px auto;
+  width: 500px;
+  border: 1px solid blue;
+  padding: 50px;
+  background-color: rgb(150, 236, 224);
+  border-radius: 10px;
+}
+.center {
+  margin: 20px auto;
+  width: 500px;
+  border: 1px solid blue;
+  padding: 50px;
+  background-color: rgb(150, 236, 224);
+  border-radius: 10px;
+}
+.pd-5 {
+  padding-top: 5px;
+}
